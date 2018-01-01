@@ -1,0 +1,171 @@
+	`<!DOCTYPE html>
+<html>
+<head>
+<title>Interface</title>
+<meta charset="utf8">
+
+<link rel="stylesheet" href="bootstrap.min.css">
+<style type="text/css">
+
+       @font-face {
+       	font-family: 'urdu';
+       src: url('NotoNastaliqUrdu-Regular.ttf');
+   }
+
+   #urdu{
+   	  font-family: urdu;
+   }
+
+     </style>
+<script type="text/javascript" >
+function val()
+{
+var adjcounter=0;
+
+		var sentence = document.getElementById("roman").value;
+		//alert(sentence);
+		var res = sentence.split(" ");
+		//alert(res);
+		
+	function loadJSON(callback) {
+
+    var xobj = new XMLHttpRequest();
+    xobj.overrideMimeType("application/json");
+    xobj.open('GET', 'Database.json', true);
+    xobj.onreadystatechange = function() {
+        if (xobj.readyState == 4 && xobj.status == "200") {
+
+            //.open will NOT return a value but simply returns undefined in async mode so use a callback
+            callback(xobj.responseText);
+        }
+    }
+    xobj.send(null);
+}
+
+loadJSON(function(response) {
+   //  Do Something with the response e.g.
+    jsonresponse = JSON.parse(response);
+  //   Assuming json data is wrapped in square brackets as Drew suggests
+  var totalRes="";
+  for(var x=0;x<res.length;x++)
+  {
+//  alert("word checking is "+ res[x]);
+  for(var i=0;i<jsonresponse.length;i++)
+  {
+    console.log(jsonresponse[i].UrduWord);
+    console.log(jsonresponse[i].PartOfSpeech);
+    console.log(jsonresponse[i].Category);
+	//for(var j=0;j<2;j++)
+	//{   
+		console.log(jsonresponse[i].Roman);
+		var romanN= jsonresponse[i].Roman;
+		
+		//alert("first roman name is "+ romanN[0].Word1);
+		//alert("Second roman name is "+ romanN[0].Word2);
+if(romanN[0].Word1==res[x] || romanN[0].Word2==res[x])
+{
+	totalRes+=jsonresponse[i].UrduWord+" ";
+	//alert(totalRes);
+document.getElementById("urdu").value= totalRes;
+//alert("Category is " +jsonresponse[i].Category);
+if(jsonresponse[i].Category==1)
+{
+	adjcounter++;
+	//alert(res[x] +" is positive word");
+}
+else if(jsonresponse[i].Category==2)
+{
+	adjcounter--;
+	//alert(res[x] +" is negative word");
+}
+else{}
+//alert("data is matched");
+break;
+	//}
+}
+
+	//}
+}
+//alert( "Now adjective counter of this sentence is " + adjcounter);
+
+	}//closing romen sentence loop
+//alert( "Final adjective counter of this sentence is " + adjcounter);
+if(adjcounter>0)
+{
+//alert("this is positive sentence");
+}
+else if(adjcounter<0)
+{
+//alert("this is negative sentence");
+}
+else
+{
+//alert("this is nutral sentence");
+
+}
+	});
+}		
+</script>
+</head>
+<body>
+<div class="navbar navbar-expand-lg navbar-dark bg-dark" id="navigation" style="margin-bottom: 43px;">
+		<div class="container">
+			<a href="#" class="navbar-brand">Google </a>
+			<ul class="navbar-nav mr-auto">
+			<li class="nav-item active">
+				<a href="#" class="nav-link">Home</a>
+			</li>
+			<li class="nav-item active">
+				<a href="#" class="nav-link">About</a>
+			</li>
+			<li class="nav-item active">
+				<a href="#" class="nav-link">Translator</a>
+			</li>
+		</ul>
+		<ul class="navbar-nav navbar-right">
+			<li class="nav-item">
+				<a href="#" class="nav-link">CONTACT Us</a>
+			</li>
+			
+		</ul>
+		</div>
+	</div>
+	
+	
+	<div class="row">
+		<div class="col-md-6">
+			<div class="form-group">
+			<button type="button" class="btn btn-primary btn-lg btn-block">Roman Urdu</button>
+    		<textarea class="form-control" id="roman" rows="7" name="romanSentence"></textarea>
+ 			 </div>
+		
+		</div>
+		<div class="col-md-0">
+		</div>
+			<div class="col-md-6">
+				<div class="form-group">
+				<button type="button" class="btn btn-primary btn-lg btn-block"> Urdu</button>
+    		<textarea class="form-control" id="urdu" rows="7" name="urduSentence"></textarea>
+ 			 </div>
+		
+		</div>
+		
+	</div>
+<div><button onclick="val()" type="button" class="btn btn-primary btn-lg" style="    position: absolute;
+    right: 635px;" >Translate</button>
+</div>
+	
+  <!-- Enter Roman sentence:<br>
+  <input type="text" id= "roman" size="50" name="romanSentence" value="" onclick="val()">
+  <br>
+   Urdu sentence:<br>
+  <input type="text" id="urdu" size="50" name="urduSentence" value="">
+  <br><br>
+<button onclick="val()">convert</button>
+</form> 
+
+<div id="id01"></div>
+-->
+
+</body>
+</html>

@@ -1,0 +1,4960 @@
+[
+{
+	"UrduWord":"کر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kr",
+				"Word2":"kar"
+			}
+	]
+},
+{
+	"UrduWord":"ہے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"hay",
+				"Word2":"hy"
+			}
+	]
+},
+{
+	"UrduWord":"گا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ga",
+				"Word2":"gay"
+			}
+	]
+},
+{
+	"UrduWord":"تھا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"tha",
+				"Word2":"the"
+			}
+	]
+},
+{
+	"UrduWord":"تھی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"thi",
+				"Word2":"thee"
+			}
+	]
+},
+{
+	"UrduWord":"ہیں",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"hain",
+				"Word2":"hein"
+			}
+	]
+},
+{
+	"UrduWord":"گئ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"gee",
+				"Word2":"gye"
+			}
+	]
+},
+
+{
+	"UrduWord":"ہو",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ho",
+				"Word2":"hw"
+			}
+	]
+},
+{
+	"UrduWord":"رہا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"raha",
+				"Word1":"raha"
+				}
+	]
+},
+{
+	"UrduWord":"رہی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"rahi",
+				"Word2":"rahi"
+			}
+	]
+},
+
+{
+	"UrduWord":"کل",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kal",
+				"Word2":"kl"
+			}
+	]
+},
+{
+	"UrduWord":"میں",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mein",
+				"Word2":"me"
+			}
+	]
+},
+{
+	"UrduWord":"آِوں",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"aaon",
+				"Word2":"aon"
+			}
+	]
+},
+{
+	"UrduWord":"آِو",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"aao",
+				"Word2":"ao"
+			}
+	]
+},
+{
+	"UrduWord":"گا",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ga",
+				"Word2":"gaa"
+			}
+	]
+},
+{
+	"UrduWord":"چھٹی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"chutti",
+				"Word2":"chuti"
+			}
+	]
+},{
+	"UrduWord":"ہے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"hai",
+				"Word2":"hy"
+			}
+	]
+},
+{
+	"UrduWord":"بہت",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"buhat",
+				"Word2":"boht"
+			}
+	]
+},
+{
+	"UrduWord":"نازک",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nazuk",
+				"Word2":"nazzuk"
+			}
+	]
+},
+{
+	"UrduWord":"صورت حال",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"surat-e-haal",
+				"Word2":"soorat-e-haal"
+			}
+	]
+},
+{
+	"UrduWord":"میرا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mera",
+				"Word2":"myra"
+			}
+	]
+},
+{
+	"UrduWord":"سا مان",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"saman",
+				"Word2":"saamaan"
+			}
+	]
+}
+
+
+,
+
+
+
+{
+	"UrduWord":"اکتوبر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"october",
+				"Word2":"octobr"
+			}
+	]
+},
+{
+	"UrduWord":"اوکات",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"owkaat",
+				"Word2":"owkat"
+			}
+	]
+},
+{
+	"UrduWord":"اور",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"owr",
+				"Word2":"or"
+			}
+	]
+},
+{
+	"UrduWord":"الٹا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"oolta",
+				"Word2":"ulta"
+			}
+	]
+},
+{
+	"UrduWord":"اولاد",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"owlaad",
+				"Word2":"olaad"
+			}
+	]
+},
+{
+	"UrduWord":"پڑھ",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"parh",
+				"Word2":"prh"
+			}
+	]
+},
+{
+	"UrduWord":"پوچھو",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pucho",
+				"Word2":"poocho"
+			}
+	]
+},{
+	"UrduWord":"پے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"py",
+				"Word2":"pe"
+			}
+	]
+},
+{
+	"UrduWord":"پختون",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pukhtoon",
+				"Word2":"pakhtoon"
+			}
+	]
+},
+{
+	"UrduWord":"پوری",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"poori",
+				"Word2":"poory"
+			}
+	]
+},
+{
+	"UrduWord":"پھر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"phir",
+				"Word2":"phr"
+			}
+	]
+},
+{
+	"UrduWord":"پھننا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pehanna",
+				"Word2":"pehannah"
+			}
+	]
+},
+{
+	"UrduWord":"پتلا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"patla",
+				"Word2":"putla"
+			}
+	]
+},
+{
+	"UrduWord":"پیچھے ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pichy",
+				"Word2":"peechy"
+			}
+	]
+},
+{
+	"UrduWord":"پادری",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"padri",
+				"Word2":"aadre"
+			}
+	]
+},
+{
+	"UrduWord":"پائیدار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"paidaar",
+				"Word2":"payedaar"
+			}
+	]
+},
+{
+	"UrduWord":"پھرتیلا",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"phurteela",
+				"Word2":"phurtela"
+			}
+	]
+},
+{
+	"UrduWord":"پاگل",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"pagal",
+				"Word2":"pagl"
+			}
+	]
+},
+{
+	"UrduWord":"پابند",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"paband",
+				"Word2":"paaband"
+			}
+	]
+},
+{
+	"UrduWord":"پالا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"paala",
+				"Word2":"pala"
+			}
+	]
+},
+{
+	"UrduWord":"پانچھ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"paanch",
+				"Word2":"panch"
+			}
+	]
+},
+{
+	"UrduWord":"پائوں",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"paaon",
+				"Word2":"paaun"
+			}
+	]
+},
+{
+	"UrduWord":"پاس",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"paas",
+				"Word2":"pas"
+			}
+	]
+},
+{
+	"UrduWord":"پہیلی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"paheli",
+				"Word2":"pahylee"
+			}
+	]
+},
+{
+	"UrduWord":"پہنچا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"phnchna",
+				"Word2":"pohanchna"
+			}
+	]
+},
+{
+	"UrduWord":"پکانا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pakana",
+				"Word2":"pkana"
+			}
+	]
+},
+{
+	"UrduWord":"پکرنا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pakrna",
+				"Word2":"pakarna"
+			}
+	]
+},
+{
+	"UrduWord":"پاکیزہ",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"pakeezah",
+				"Word2":"pakezah"
+			}
+	]
+},
+{
+	"UrduWord":"پاکستانی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pakistaani",
+				"Word2":"pakistni"
+			}
+	]
+},
+{
+	"UrduWord":"پناہ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"panah",
+				"Word2":"panaah"
+			}
+	]
+},
+{
+	"UrduWord":"پنیر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"paneer",
+				"Word2":"panir"
+			}
+	]
+},
+{
+	"UrduWord":"پانی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"paani",
+				"Word2":"pani"
+			}
+	]
+},
+{
+	"UrduWord":"پنکھا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pankha",
+				"Word2":"pnkha"
+			}
+	]
+},
+{
+	"UrduWord":"پریشان",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pareshaan",
+				"Word2":"pareshan"
+			}
+	]
+},
+{
+	"UrduWord":"پردہ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pardah",
+				"Word2":"purdah"
+			}
+	]
+},
+{
+	"UrduWord":"پڑھنا",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"parhna",
+				"Word2":"prhna"
+			}
+	]
+},
+{
+	"UrduWord":"پڑوسی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"parosi",
+				"Word2":"parowsi"
+			}
+	]
+},
+{
+	"UrduWord":"پسینہ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"paseena",
+				"Word2":"pasina"
+			}
+	]
+},
+{
+	"UrduWord":"پتنگ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"patang",
+				"Word2":"ptang"
+			}
+	]
+},
+{
+	"UrduWord":"پتھر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pathr",
+				"Word2":"pather"
+			}
+	]
+},
+{
+	"UrduWord":"پیغام",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"payghaam",
+				"Word2":"paighaam"
+			}
+	]
+},
+{
+	"UrduWord":"پیار",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"pyar",
+				"Word2":"pyaar"
+			}
+	]
+},
+{
+	"UrduWord":"پہچان",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"pehchaan",
+				"Word2":"pehchan"
+			}
+	]
+},
+{
+	"UrduWord":"قوم",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qaum",
+				"Word2":"qoum"
+			}
+	]
+},
+{
+	"UrduWord":"قطر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qatar",
+				"Word2":"qatr"
+			}
+	]
+},
+{
+	"UrduWord":"قبر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qabr",
+				"Word2":"qabar"
+			}
+	]
+},
+{
+	"UrduWord":"قسم",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qasam",
+				"Word2":"qasm"
+			}
+	]
+},
+{
+	"UrduWord":"کالا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qala",
+				"Word2":"kala"
+			}
+	]
+},
+{
+	"UrduWord":"قلم",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qalam",
+				"Word2":"kalam"
+			}
+	]
+},
+{
+	"UrduWord":"قابل",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"qaabil",
+				"Word2":"kaabil"
+			}
+	]
+},
+{
+	"UrduWord":"قیمت",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qeemat",
+				"Word2":"qemat"
+			}
+	]
+},
+{
+	"UrduWord":"قحط",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qahat",
+				"Word2":"kehet"
+			}
+	]
+},
+{
+	"UrduWord":"قابلیت",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"qabliyat",
+				"Word2":"kabliyat"
+			}
+	]
+},
+{
+	"UrduWord":"کیفیت",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qefiyat",
+				"Word2":"kefiyat"
+			}
+	]
+},
+{
+	"UrduWord":"کاتل",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qaatil",
+				"Word2":"kaatil"
+			}
+	]
+},
+{
+	"UrduWord":"قبول",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qabool",
+				"Word2":"kabool"
+			}
+	]
+},
+{
+	"UrduWord":"قائم",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qaim",
+				"Word2":"kaim"
+			}
+	]
+},
+{
+	"UrduWord":"قانونی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qanooni",
+				"Word2":"kanooni"
+			}
+	]
+},
+{
+	"UrduWord":"قازی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qazi",
+				"Word2":"kazi"
+			}
+	]
+},
+{
+	"UrduWord":"قمر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qamr",
+				"Word2":"qamar"
+			}
+	]
+},
+{
+	"UrduWord":"قبضہ",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"qabzah",
+				"Word2":"kabzah"
+			}
+	]
+},
+{
+	"UrduWord":"قدم",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qadam",
+				"Word2":"kadam"
+			}
+	]
+},
+{
+	"UrduWord":"قیدی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qaidee",
+				"Word2":"kaidee"
+			}
+	]
+},
+{
+	"UrduWord":"قلب",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qalb",
+				"Word2":"kalb"
+			}
+	]
+},
+{
+	"UrduWord":"قردار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qirdaar",
+				"Word2":"kirdaar"
+			}
+	]
+},
+{
+	"UrduWord":"قریب",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qareeb",
+				"Word2":"kareeb"
+			}
+	]
+},
+{
+	"UrduWord":"قرض",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qarz",
+				"Word2":"karz"
+			}
+	]
+},
+{
+	"UrduWord":"قصائی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qasai",
+				"Word2":"kasai"
+			}
+	]
+},
+{
+	"UrduWord":"قطار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"qitaar",
+				"Word2":"kitaar"
+			}
+	]
+},
+{
+	"UrduWord":"ناکس",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"naakis",
+				"Word2":"nakis"
+			}
+	]
+},
+{
+	"UrduWord":"نازیبا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nazeeba",
+				"Word2":"nazeba"
+			}
+	]
+},
+{
+	"UrduWord":"ناخوش",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nakhush",
+				"Word2":"na-khush"
+			}
+	]
+},
+{
+	"UrduWord":"نامعلوم",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"na-maloom",
+				"Word2":"namaloom"
+			}
+	]
+},
+{
+	"UrduWord":"نحش",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"nehesh",
+				"Word2":"nesh"
+			}
+	]
+},
+{
+	"UrduWord":"نورانی",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"noorani",
+				"Word2":"norani"
+			}
+	]
+},
+{
+	"UrduWord":"نور",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"noor",
+				"Word2":"nooor"
+			}
+	]
+},
+{
+	"UrduWord":"نفرت ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nafrat",
+				"Word2":"nufrat"
+			}
+	]
+},
+{
+	"UrduWord":"نوکری",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nokri",
+				"Word2":"nokeri"
+			}
+	]
+},
+{
+	"UrduWord":"ناراض",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"naraz",
+				"Word2":"naraaz"
+			}
+	]
+},
+{
+	"UrduWord":"نامور",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"naamwar",
+				"Word2":"namwar"
+			}
+	]
+},
+{
+	"UrduWord":"نادان",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nadaan",
+				"Word2":"naadaan"
+			}
+	]
+},
+{
+	"UrduWord":"ناجائز",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"najaiz",
+				"Word2":"najayez"
+			}
+	]
+},
+{
+	"UrduWord":"نادر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nadar",
+				"Word2":"na'dr"
+			}
+	]
+},
+{
+	"UrduWord":"نبض",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nabz",
+				"Word2":"nabaz"
+			}
+	]
+},
+{
+	"UrduWord":"نمودار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"namoodar",
+				"Word2":"namudaar"
+			}
+	]
+},
+{
+	"UrduWord":"نمونۃ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"namoona",
+				"Word2":"namuna"
+			}
+	]
+},
+{
+	"UrduWord":"نشائی",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"nashai",
+				"Word2":"nshai"
+			}
+	]
+},
+{
+	"UrduWord":"نمائش",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"namaish",
+				"Word2":"numaish"
+			}
+	]
+},
+{
+	"UrduWord":"نہایت",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nehayat",
+				"Word2":"nihayat"
+			}
+	]
+},
+{
+	"UrduWord":"نیلا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"neela",
+				"Word2":"nela"
+			}
+	]
+},
+{
+	"UrduWord":"ناشکری",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"nashukri",
+				"Word2":"na-shukri"
+			}
+	]
+},
+{
+	"UrduWord":"نقصان",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nuqsaan",
+				"Word2":"nuksaan"
+			}
+	]
+},
+{
+	"UrduWord":"نمائش",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"oonsha",
+				"Word2":"unsha"
+			}
+	]
+},
+{
+	"UrduWord":"اونچا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"namaish",
+				"Word2":"numaish"
+			}
+	]
+},
+{
+	"UrduWord":"اوپر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ooper",
+				"Word2":"uper"
+			}
+	]
+},
+{
+	"UrduWord":"اونٹھ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"unth",
+				"Word2":"oonth"
+			}
+	]
+},
+{
+	"UrduWord":"اسکا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"oska",
+				"Word2":"uska"
+			}
+	]
+},
+{
+	"UrduWord":"اٹھانا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"uthana",
+				"Word2":"othana"
+			}
+	]
+},
+{
+	"UrduWord":"اوست",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"osat",
+				"Word2":"oost"
+			}
+	]
+},
+{
+	"UrduWord":"اوزار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ozaar",
+				"Word2":"owzaar"
+			}
+	]
+},
+{
+	"UrduWord":"انگلی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"oonglee",
+				"Word2":"ungli"
+			}
+	]
+},
+{
+	"UrduWord":"او",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"oh",
+				"Word2":"uh"
+			}
+	]
+}
+,
+{
+	"UrduWord":"لہاز",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"lehaz",
+				"Word2":"lehaaz"
+			}
+	]
+},
+{
+	"UrduWord":"لالچی",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"lalchee",
+				"Word2":"laalachi"
+			}
+	]
+},
+{
+	"UrduWord":"لعنتی",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"laanti",
+				"Word2":"lanati"
+			}
+	]
+},
+{
+	"UrduWord":"لہجا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"lehja",
+				"Word2":"lahja"
+			}
+	]
+},
+{
+	"UrduWord":"لاہور",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"lahore",
+				"Word2":"lhr"
+			}
+	]
+},
+{
+	"UrduWord":"لائق",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"laik",
+				"Word2":"layek"
+			}
+	]
+},
+{
+	"UrduWord":"لنگرہ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"langra",
+				"Word2":"lungra"
+			}
+	]
+},
+{
+	"UrduWord":"لرائی",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"larai",
+				"Word2":"lrai"
+			}
+	]
+},
+{
+	"UrduWord":"لطیفہ",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"lateefa",
+				"Word2":"latefa"
+			}
+	]
+},
+{
+	"UrduWord":"لیکن",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"lykin",
+				"Word2":"lekin"
+			}
+	]
+},
+{
+	"UrduWord":"لازمی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"lazmee",
+				"Word2":"lazmi"
+			}
+	]
+},
+{
+	"UrduWord":"لباس",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"libas",
+				"Word2":"libaas"
+			}
+	]
+},
+{
+	"UrduWord":"لکھو",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"likho",
+				"Word2":"lekho"
+			}
+	]
+},
+{
+	"UrduWord":"لاٹھی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"laathee",
+				"Word2":"lathee"
+			}
+	]
+},
+{
+	"UrduWord":"لکھائی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"likhayee",
+				"Word2":"likhai"
+			}
+	]
+},
+{
+	"UrduWord":"لال",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"lal",
+				"Word2":"laal"
+			}
+	]
+},
+{
+	"UrduWord":"مل",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mil",
+				"Word2":"ml"
+			}
+	]
+},
+{
+	"UrduWord":"مانگتے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"maangty",
+				"Word2":"mangty"
+			}
+	]
+},
+{
+	"UrduWord":"میری",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"meri",
+				"Word2":"mere"
+			}
+	]
+},
+{
+	"UrduWord":"ملک",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mulk",
+				"Word2":"mulak"
+			}
+	]
+},
+{
+	"UrduWord":"ملا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mila",
+				"Word2":"milaa"
+			}
+	]
+},
+{
+	"UrduWord":"مدرسہ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"madrissa",
+				"Word2":"madressa"
+			}
+	]
+},
+{
+	"UrduWord":"میٹھا",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"meetha",
+				"Word2":"metha"
+			}
+	]
+},
+{
+	"UrduWord":"مہنگا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mehnga",
+				"Word2":"menga"
+			}
+	]
+},
+{
+	"UrduWord":"میں نے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mainee",
+				"Word2":"meiny"
+			}
+	]
+},
+{
+	"UrduWord":"معلومات",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"maloomat",
+				"Word2":"malumaat"
+			}
+	]
+},
+{
+	"UrduWord":"معزور",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mazoor",
+				"Word2":"maazroor"
+			}
+	]
+},
+{
+	"UrduWord":"معفی",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"maafi",
+				"Word2":"muafi"
+			}
+	]
+},
+{
+	"UrduWord":"منافق",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"munafiq",
+				"Word2":"munafik"
+			}
+	]
+},
+{
+	"UrduWord":"ماہر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"maahir",
+				"Word2":"mahir"
+			}
+	]
+},
+{
+	"UrduWord":"ماحول",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mahol",
+				"Word2":"maahol"
+			}
+	]
+},
+{
+	"UrduWord":"مالک",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"maalik",
+				"Word2":"malik"
+			}
+	]
+},
+{
+	"UrduWord":"معمولی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mamooli",
+				"Word2":"mamuli"
+			}
+	]
+},
+{
+	"UrduWord":"مذہب",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mazhab",
+				"Word2":"mazhb"
+			}
+	]
+},
+{
+	"UrduWord":"معصوم",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"masoom",
+				"Word2":"maasoom"
+			}
+	]
+},
+{
+	"UrduWord":"مجبور",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"majboor",
+				"Word2":"majbor"
+			}
+	]
+},
+{
+	"UrduWord":"محمان",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"mehmaan",
+				"Word2":"mehman"
+			}
+	]
+},
+{
+	"UrduWord":"محسوس",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"mehsoos",
+				"Word2":"mehsus"
+			}
+	]
+},
+{
+	"UrduWord":"ملنسار",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"milansaar",
+				"Word2":"milansar"
+			}
+	]
+},
+{
+	"UrduWord":"منمانی",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"manmaani",
+				"Word2":"manmani"
+			}
+	]
+},
+{
+	"UrduWord":"مانگنا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"maangna",
+				"Word2":"mangna"
+			}
+	]
+},{
+	"UrduWord":"نہیں",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"nahi",
+				"Word2":"nahe"
+			}
+	]
+},{
+	"UrduWord":"نوازش",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"maanawazish",
+				"Word2":"nwazish"
+			}
+	]
+},{
+	"UrduWord":" نمکین",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"namkeen",
+				"Word2":"memekeyn"
+			}
+	]
+},
+{
+	"UrduWord":"نیا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"naya",
+				"Word2":"neya"
+			}
+	]
+},
+{
+	"UrduWord":"نرم",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"naram",
+				"Word2":"nurm"
+			}
+	]
+},
+
+{
+	"UrduWord":"خالص",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"khalis",
+				"Word2":"khaalis"
+			}
+	]
+},
+{
+	"UrduWord":"لی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"li",
+				"Word2":"le"
+			}
+	]
+},{
+	"UrduWord":"لئے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"liay",
+				"Word2":"liye"
+			}
+	]
+},{
+	"UrduWord":"لعنت",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"laanat",
+				"Word2":"lanat"
+			}
+	]
+},{
+	"UrduWord":"لیتے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"letey",
+				"Word2":"letay"
+			}
+	]
+},
+{
+	"UrduWord":"لائو",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"lao",
+				"Word2":"laao"
+			}
+	]
+},
+{
+	"UrduWord":"لوگ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"loag",
+				"Word2":"log"
+			}
+	]
+},{
+	"UrduWord":"لے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"lay",
+				"Word2":"ly"
+			}
+	]
+},
+{
+	"UrduWord":"لمبا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"lamba",
+				"Word2":"lumba"
+			}
+	]
+},
+{
+	"UrduWord":"لائق",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"laik",
+				"Word2":"layek"
+			}
+	]
+},
+{
+	"UrduWord":"لاپرواہ",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"laperwah",
+				"Word2":"la-pervah"
+			}
+	]
+}
+
+
+,
+{
+	"UrduWord":"کے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kay",
+				"Word2":"k",
+				"Word2":"ky"
+			}
+	]
+},
+{
+	"UrduWord":"کوئی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"koi",
+				"Word2":"koe"
+			}
+	]
+},
+{
+	"UrduWord":"کرو",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kro",
+				"Word2":"karo"
+			}
+	]
+},
+{
+	"UrduWord":"کی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":" kii",
+				"Word2":"ki",
+				"Word2":"ke"
+			}
+	]
+},
+{
+	"UrduWord":"کیا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kia",
+				"Word2":"kiya",
+				"Word2":"kya"
+			}
+	]
+},
+{
+	"UrduWord":"کینیا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kenya",
+				"Word2":"keenya"
+			}
+	]
+},
+
+{
+	"UrduWord":"خاس",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"khas",
+				"Word2":"khaas"
+			}
+	]
+},
+
+{
+	"UrduWord":"کڑوا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kerwa",
+				"Word2":"kerva"
+			}
+	]
+},
+
+{
+	"UrduWord":"خوبیاں",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"khoobiyaan",
+				"Word2":"khoobiyan"
+			}
+	]
+},
+
+{
+	"UrduWord":"خالی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"khali",
+				"Word2":"khaali"
+			}
+	]
+},
+
+{
+	"UrduWord":"کمتر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kam-tar",
+				"Word2":"kam-tr"
+			}
+	]
+},
+
+{
+	"UrduWord":"کافر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kaafir",
+				"Word2":"kafir"
+			}
+	]
+},
+
+{
+	"UrduWord":"قاتل",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"katil",
+				"Word2":"kaatil",
+				"Word2":"qatil"
+			}
+	]
+},
+
+{
+	"UrduWord":"قلم",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kalam",
+				"Word2":"qalam"
+			}
+	]
+},
+
+{
+	"UrduWord":"کامل",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"kaamil",
+				"Word2":"qaamil"
+			}
+	]
+},
+
+{
+	"UrduWord":"قادر",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"kaadir",
+				"Word2":"kadir",
+				"Word2":"qadir"
+			}
+	]
+},
+
+{
+	"UrduWord":"قربانی",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"kurbani",
+				"Word2":"qurbaani"
+			}
+	]
+},
+
+{
+	"UrduWord":"قاہل",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"kaahil",
+				"Word2":"kahil"
+			}
+	]
+},
+
+
+{
+	"UrduWord":"کام",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"kaam",
+				"Word2":"kam"
+			}
+	]
+},
+{
+	"UrduWord":"کنجوس",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"kanjoos",
+				"Word2":"qanjoos"
+			}
+	]
+}
+
+,
+{
+	"UrduWord":"جانا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"jana",
+				"Word2":"jaana"
+			}
+	]
+},
+{
+	"UrduWord":"جواب",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"jawab",
+				"Word2":"jawaab"
+			}
+	]
+},
+{
+	"UrduWord":"جاہل",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"jahil",
+				"Word2":"jahel"
+			}
+	]
+},
+{
+	"UrduWord":"جھلک",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"jhalak",
+				"Word2":"jhlak"
+			}
+	]
+},
+{
+	"UrduWord":"جعلی",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"jaely",
+				"Word2":"jeily"
+			}
+	]
+},
+{
+	"UrduWord":"جرم",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"juram",
+				"Word2":"jurm"
+			}
+	]
+},
+{
+	"UrduWord":"جہنمی",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"juhanami",
+				"Word2":"jahunnami"
+			}
+	]
+},
+{
+	"UrduWord":"جوابدہ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"jawabdeh",
+				"Word2":"jawab-deh"
+			}
+	]
+},
+{
+	"UrduWord":"جواری",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"jawari",
+				"Word2":"juwari"
+			}
+	]
+},
+{
+	"UrduWord":"جابر",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"jaabir",
+				"Word2":"jabir"
+			}
+	]
+},
+{
+	"UrduWord":"جب",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"jab",
+				"Word2":"jb"
+			}
+	]
+},
+{
+	"UrduWord":"جوکر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"janam",
+				"Word2":"janm"
+			}
+	]
+},
+{
+	"UrduWord":"جانور",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"janwar",
+				"Word2":"janwr"
+			}
+	]
+},
+{
+	"UrduWord":"جھومپری",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"jhompri",
+				"Word2":"jhompry"
+			}
+	]
+},
+{
+	"UrduWord":"جلنا",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"jalna",
+				"Word2":"julna"
+			}
+	]
+},
+{
+	"UrduWord":"اشتہار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ishtehaar",
+				"Word2":"eshtehaar"
+			}
+	]
+},
+{
+	"UrduWord":"جنگل",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"junglee",
+				"Word2":"jungli"
+			}
+	]
+},
+{
+	"UrduWord":"جزباتی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"jazbaati",
+				"Word2":"juzbati"
+			}
+	]
+},
+{
+	"UrduWord":"عزت",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":" izat",
+				"Word2":"ezat"
+			}
+	]
+	
+
+},{
+	"UrduWord":"اتنے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"itnay",
+				"Word2":"itnee"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"اس",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"iss",
+				"Word2":"is"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"انکو",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"inko",
+				"Word2":"enko"
+			}
+	]
+},
+{
+	"UrduWord":"اسراءیل",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"israel",
+				"Word2":"israeel"
+			}
+	]
+},
+{
+	"UrduWord":"انسان",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"insan",
+				"Word2":"insaan"
+			}
+	]
+},
+{
+	"UrduWord":"انصاف",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"insaaf",
+				"Word2":"insaf"
+			}
+	]
+},
+{
+	"UrduWord":"انتظار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"intazar",
+				"Word2":"intazaar"
+			}
+	]
+},
+{
+	"UrduWord":"انعام",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"inam",
+				"Word2":"inaam"
+			}
+	]
+},
+{
+	"UrduWord":"اشارہ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ishara",
+				"Word2":"eshara"
+			}
+	]
+},
+{
+	"UrduWord":"عبادت",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ibadat",
+				"Word2":"ibaadat"
+			}
+	]
+},
+{
+	"UrduWord":"ابلیس",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"iblees",
+				"Word2":"eblees"
+			}
+	]
+},{
+	"UrduWord":"ابتدا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ibtada",
+				"Word2":"ibtda"
+			}
+	]
+},{
+	"UrduWord":"افتتاح",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"iftatah",
+				"Word2":"ifteteh"
+			}
+	]
+},
+{
+	"UrduWord":"ادارہ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"idara",
+				"Word2":"edara"
+			}
+	]
+},
+{
+	"UrduWord":"افتتاح",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"iftatah",
+				"Word2":"ifteteh"
+			}
+	]
+},
+{
+	"UrduWord":"اجتماع",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ijtmae",
+				"Word2":"ijtmah"
+			}
+	]
+},
+{
+	"UrduWord":"ایجاد",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ijad",
+				"Word2":"ejad"
+			}
+	]
+},
+{
+	"UrduWord":"اجازت",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ijazat",
+				"Word2":"ejazat"
+			}
+	]
+},
+{
+	"UrduWord":"الحام",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ilham",
+				"Word2":"elham"
+			}
+	]
+},
+{
+	"UrduWord":"اجازت",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ikhlaaq",
+				"Word2":"ehlaaq"
+			}
+	]
+},
+{
+	"UrduWord":"اختیار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ikhtiyaar",
+				"Word2":"ekhtiyaar"
+			}
+	]
+},
+{
+	"UrduWord":"اختتام",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ikhtatam",
+				"Word2":"ekhtatam"
+			}
+	]
+},
+{
+	"UrduWord":"علاج",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ilaaj",
+				"Word2":"elaaj"
+			}
+	]
+},
+{
+	"UrduWord":"اعلان",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ilaan",
+				"Word2":"ailaan"
+			}
+	]
+},
+{
+	"UrduWord":"علم",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ilm",
+				"Word2":"elm"
+			}
+	]
+},
+{
+	"UrduWord":"الزام",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"ilzaam",
+				"Word2":"elzaam"
+			}
+	]
+},
+{
+	"UrduWord":"امداد",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"imdad",
+				"Word2":"imdaad"
+			}
+	]
+},
+{
+	"UrduWord":"ایماندار",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"imandaar",
+				"Word2":"emaandaar"
+			}
+	]
+},
+{
+	"UrduWord":"امکان",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"imkaan",
+				"Word2":"emkaan"
+			}
+	]
+},
+{
+	"UrduWord":"امتحان",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"imtehaan",
+				"Word2":"emtehaan"
+			}
+	]
+},
+{
+	"UrduWord":"انکار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"inkaar",
+				"Word2":"enkar"
+			}
+	]
+},
+{
+	"UrduWord":"احسان",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ihsaan",
+				"Word2":"ehsaan"
+			}
+	]
+},
+{
+	"UrduWord":"انقلاب",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"inqlaab",
+				"Word2":"enqlaab"
+			}
+	]
+},
+{
+	"UrduWord":"انتزام",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"intezam",
+				"Word2":"entazaam"
+			}
+	]
+},
+{
+	"UrduWord":"اقرار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"iqrar",
+				"Word2":"eqrar"
+			}
+	]
+},
+{
+	"UrduWord":"اشارہ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ishara",
+				"Word2":"eshara"
+			}
+	]
+},
+{
+	"UrduWord":"اشق",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ishq",
+				"Word2":"eshq"
+			}
+	]
+},
+{
+	"UrduWord":"اشتہار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ishtehaar",
+				"Word2":"eshtehaar"
+			}
+	]
+},{
+	"UrduWord":"اب",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"Ab",
+				"Word2":"Aab"
+			}
+	]
+},
+	
+{
+	"UrduWord":"آتی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"Ati",
+				"Word2":"Atee",
+				"Word3":"Atee"
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"اچانک",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"Achanak",
+				"Word2":"Achank",
+				"Word3":"Acanak"
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"ادے",
+	"PartOfSpeech":"none",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"Arey",
+				"Word2":"Ary",
+				"Word3":"Aray"
+			}
+	]
+		
+
+},
+
+
+
+{
+	"UrduWord":"آج",
+	"PartOfSpeech":"adverb",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"Aaj",
+				"Word2":"Aj"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"آپ",
+	"PartOfSpeech":"pronoun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"Aap",
+				"Word2":"ap"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"عرصے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"Arsay",
+				"Word2":"arsy"
+				
+			}
+	]
+		
+
+},
+
+
+
+{
+	"UrduWord":"ایسے",
+	"PartOfSpeech":"article",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"Aisay",
+				"Word2":"aesay"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"آذادی",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"Aazadi",
+				"Word2":"azadi"
+				
+			}
+	]
+		
+
+},
+
+
+
+{
+	"UrduWord":"اچھا",
+	"PartOfSpeech":"none",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"Acha",
+				"Word2":"achaa"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"آئیندہ",
+	"PartOfSpeech":"adjective",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"Ainda",
+				"Word2":"aenda"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"آؤ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"Aao",
+				"Word2":"ao"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"آجا",
+	"PartOfSpeech":"none",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"Aja",
+				"Word2":"aaja"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"بار",
+	"PartOfSpeech":"adverb",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"baar",
+				"Word2":"bar"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"باہر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"bahir",
+				"Word2":"bhr"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"بکواس",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"bakwas",
+				"Word2":"bkwas"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"بات",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"baat",
+				"Word2":"bat"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"باپ",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"baap",
+				"Word2":"bap"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"بھی",
+	"PartOfSpeech":"adverb",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"bh",
+				"Word2":"bhi"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"بندہ",
+	"PartOfSpeech":"adjective",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"banda",
+				"Word2":"bnda"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"بڑا",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"bara",
+				"Word2":"bara"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"بولتے",
+	"PartOfSpeech":"verb",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"boltay",
+				"Word2":"bolty"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"بوننا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"bon'na",
+				"Word2":"bonna"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"بند",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"band",
+				"Word2":"bnd"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"باجا",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"baja",
+				"Word2":"bajja"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"بھاگ",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"bhag",
+				"Word2":"bhagh"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"بلایا",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"bulaya",
+				"Word2":"bullaya"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"چاہتے",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"chahtay",
+				"Word2":"chatey"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"چھوڑ",
+	"PartOfSpeech":"none",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"choor",
+				"Word2":"chor"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"چبانا",
+	"PartOfSpeech":"verb",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"chabanah",
+				"Word2":"chabana"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"چلو",
+	"PartOfSpeech":"verb",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"chalo",
+				"Word2":"chlo"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"چاہت",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"cahat",
+				"Word2":"chahat"
+				
+			}
+	]
+		
+
+},
+
+
+
+{
+	"UrduWord":"چھیڑنا",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"cherna",
+				"Word2":"chehrna"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"درود",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"darood",
+				"Word2":"darud"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"دھوکا",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"dhoka",
+				"Word2":"dhooka"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"دیر",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"dayr",
+				"Word2":"dair"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"ڈرنا",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"darna",
+				"Word2":"drna"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"دھکا",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"dhaka",
+				"Word2":"dhka"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"دیکھا",
+	"PartOfSpeech":"verb",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"dekha",
+				"Word2":"daikha"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"دور",
+	"PartOfSpeech":"adjective",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"door",
+				"Word2":"dur"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"دیا",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"diya",
+				"Word2":"dya"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"دوست",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"dost",
+				"Word2":"doost"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"درخت",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"darakht",
+				"Word2":"drakht"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"دنیا",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"duniya",
+				"Word2":"dunya"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"دکھ",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"dukh",
+				"Word2":"dokh"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"درمیان",
+	"PartOfSpeech":"adverb",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"darmiya",
+				"Word2":"darmiyaan"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ایسے",
+	"PartOfSpeech":"article",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"aisay",
+				"Word2":"esay"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"استخادہ",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"estakharah",
+				"Word2":"estakhara"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"احسان",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ehsan",
+				"Word2":"ehsaan"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"عید",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"eid",
+				"Word2":"Eid"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ابتدائی",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ebtadye",
+				"Word2":"ebtadayi"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"علاوہ",
+	"PartOfSpeech":"verb",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"elawa",
+				"Word2":"elava"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"اختتام",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ekht'tam",
+				"Word2":"ekhtatam"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"انحصار",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ensaar",
+				"Word2":"enhsaar"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"اخلاق",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ekhlaaq",
+				"Word2":"eklaq"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"ارتقاء",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ertaqa",
+				"Word2":"ertqa"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"عبادت",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ebadat",
+				"Word2":"ebadt"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"اشارہ",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"esara",
+				"Word2":"eshara"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"اسطرح",
+	"PartOfSpeech":"article",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"es'tarah",
+				"Word2":"es'tara"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"اہم",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ehm",
+				"Word2":"eham"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"اقتدار",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"eqtadar",
+				"Word2":"ektadar"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"اختیار",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ekhtayar",
+				"Word2":"ekhtiyar"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"فوجی",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"fauji",
+				"Word2":"fuji"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فرار",
+	"PartOfSpeech":"verb",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"farar",
+				"Word2":"frar"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فرق",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"faraq",
+				"Word2":"farq"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فساد",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"fasad",
+				"Word2":"fsaad"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فرض",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"farz",
+				"Word2":"furz"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فتنہ",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"fitna",
+				"Word2":"fetna"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فقیر",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"faqeer",
+				"Word2":"faker"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فاصلہ",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"fasla",
+				"Word2":"fasala"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فیصلہ",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"faisla",
+				"Word2":"faesla"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فائدہ",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"faida",
+				"Word2":"fayada"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فجر",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"fajr",
+				"Word2":"fajar"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فصل",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"fasal",
+				"Word2":"fasl"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فرد",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"fard",
+				"Word2":"farad"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فنا",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"fana",
+				"Word2":"fna"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فنکار",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"fankar",
+				"Word2":"fankaar"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"گیا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"gaya",
+				"Word2":"gya"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"غصہ",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"ghusa",
+				"Word2":"ghussa"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"غربت",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"ghurbat",
+				"Word2":"ghorbat"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"غریب",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"ghareeb",
+				"Word2":"gharib"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"گھنٹہ",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ghanta",
+				"Word2":"ghenta"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"گزر",
+	"PartOfSpeech":"verb",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"guzar",
+				"Word2":"guzer"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"گھبراہٹ",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"ghabrahat",
+				"Word2":"gabrhat"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"گرنا",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"gerna",
+				"Word2":"girna"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"گھسیٹنا",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"ghaseetna",
+				"Word2":"gasitna"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"گھر",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ghar",
+				"Word2":"ghr"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"گہرا",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"gehra",
+				"Word2":"ghera"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"گلہ",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"gela",
+				"Word2":"gila"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"غلہ",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"ghala",
+				"Word2":"gala"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"گیزر",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"geezar",
+				"Word2":"gizar"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ہار",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"haar",
+				"Word2":"har"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"حساب",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"hisab",
+				"Word2":"hesab"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"حبس",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"habs",
+				"Word2":"habas"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"حکیم",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"hakeem",
+				"Word2":"hakim"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"حکم",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"hukam",
+				"Word2":"hukem"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ہمت",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"himat",
+				"Word2":"himmat"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ھم",
+	"PartOfSpeech":"pronoun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"hum",
+				"Word2":"ham"
+				
+			}
+	]
+		
+
+},
+
+
+
+{
+	"UrduWord":"ھماری",
+	"PartOfSpeech":"pronoun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"humare",
+				"Word2":"hamare"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"حمام",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"hamam",
+				"Word2":"humam"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ہمکنار",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"hamkunar",
+				"Word2":"humkunar"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ہلکا",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"halka",
+				"Word2":"hulka"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ہمراز",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"hamraaz",
+				"Word2":"humraaz"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"حقیقت",
+	"PartOfSpeech":"noun",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"haqeeqat",
+				"Word2":"haqiqat"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"حکمران",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"hukmaran",
+				"Word2":"hokmara"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"حقیر",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"haqeer",
+				"Word2":"hakeer"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"حرام",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"haram",
+				"Word2":"haraam"
+				
+			}
+	]
+		
+
+},
+{
+	"UrduWord":"راس",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"raas",
+				"Word2":"ras"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"رہے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"rhy",
+				"Word2":"rahy",
+				"Word3":"rahe"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"راحت",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"rahat",
+				"Word2":"raahat"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"ساتھ",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"sath",
+				"Word2":"saath"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"سارے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"saray",
+				"Word2":"saray"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"سے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"see",
+				"Word2":"se",
+				"Word3":"sy"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"سب",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"sub",
+				"Word2":"sab"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"سر",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"sir",
+				"Word2":"sar"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"شکر",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"shukr",
+				"Word2":"shukar"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"تھی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"thi",
+				"Word2":"the"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"تھوڑی",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"thori",
+				"Word2":"thory"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"تک",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"tak",
+				"Word2":"tk"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"تو",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"tou"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"توانا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"tawanah",
+				"Word2":"tawana"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"الٹا",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"utha",
+				"Word2":"otha"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"ویر",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"veer",
+				"Word2":"veir"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"وہاں",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"wahan",
+				"Word2":"wahan"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"ویسے",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"wasay",
+				"Word2":"wesy"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"واہ",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"wah",
+				"Word2":"wh"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"وجود",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"wajud",
+				"Word2":"wujud"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"یہ",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"yeh",
+				"Word2":"ye"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"یار",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"yaar",
+				"Word2":"yr",
+				"Word3":"yar"
+				
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"یہاں",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"yahaan",
+				"Word2":"yahan"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"ضرورت",
+	"PartOfSpeech":"none",
+	"Category":0,
+	"Roman":[
+			{
+				"Word1":"zarorat",
+				"Word2":"zarurat"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"انشاءاللہ",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"inshaallah",
+				"Word2":"inshallah"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"صاف",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"saaf",
+				"Word2":"saif"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"صلح",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"sulah",
+				"Word2":"sulaah"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"سادگی",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"saadgi",
+				"Word2":"sadgi"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"تعمیر",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"tameer",
+				"Word2":"taameer"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"تنقید",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"tanqeed",
+				"Word2":"tanqid"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"طاقت",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"taaqat",
+				"Word2":"taqat"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"طعنہ",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"taina",
+				"Word2":"tana"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"اداس",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"udass",
+				"Word2":"udas"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"اکسانہ",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"uksana",
+				"Word2":"uksana"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"الجھنا",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"uljhaana",
+				"Word2":"uljhana"
+			}
+	]
+	
+
+}
+]
